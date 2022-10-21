@@ -8,7 +8,9 @@
 
 `#ffffff` - Teksti
 
-`#CAD645` - Header & Footer
+`#49BF95` - Header
+
+`#49BF95` - Footer
 
 Font - Roboto Slab?
 
