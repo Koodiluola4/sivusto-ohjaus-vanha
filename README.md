@@ -2,4 +2,4 @@
 
 #028b5b - Tausta vihreä
 
-#ffffff - Etutausta vihreä
+#ffffff - Etutausta valkoinen
