@@ -1,6 +1,6 @@
 # sivusto-ohjaus
 
-Värit
+### Värit
 
 `#028b5b` - Tausta
 
@@ -10,6 +10,6 @@ Värit
 
 `#CAD645` - Header & Footer
 
-Hyödyllisiä iconeita
+### Hyödyllisiä iconeita
 
 https://lordicon.com/help/32-web-lordicon-custom-element
