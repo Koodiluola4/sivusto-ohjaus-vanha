@@ -19,3 +19,5 @@ Font - Roboto Slab?
 https://web.archive.org/web/20180110144823/https://mulufikir.org/
 
 https://lordicon.com/help/32-web-lordicon-custom-element
+
+Hostinger - mahdollinen palvelin? -Halpa
