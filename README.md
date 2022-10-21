@@ -1,4 +1,5 @@
 # sivusto-ohjaus
 
-#028b5b - greenish
-#ffffff - white
+#028b5b - Tausta vihreä
+
+#ffffff - Etutausta vihreä
