@@ -4,7 +4,11 @@ Värit
 
 #028b5b - Tausta vihreä
 
-#ffffff - Etutausta valkoinen
+#ffffff - teksti
+
+01613F - Etutausta 
+
+#CAD645 - Header & Footer
 
 Hyödyllisiä iconeita
 
