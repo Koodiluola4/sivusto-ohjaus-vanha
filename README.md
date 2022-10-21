@@ -1,6 +1,6 @@
 # sivusto-ohjaus
 
-### Värit
+### Värit (Muutettavissa)
 
 `#028b5b` - Tausta
 
