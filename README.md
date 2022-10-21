@@ -1,11 +1,11 @@
 # sivusto-ohjaus
 
-##Värit
+Värit
 
 #028b5b - Tausta vihreä
 
 #ffffff - Etutausta valkoinen
 
-##Hyödyllisiä iconeita
+Hyödyllisiä iconeita
 
 https://lordicon.com/help/32-web-lordicon-custom-element
