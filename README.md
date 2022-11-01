@@ -14,9 +14,13 @@
 
 Font - Roboto Slab?
 
-### Hyödyllisiä linkkejä
+### Käytettyjä lähteitä
+
+Löysimme arkistoista entisen Mulufikir sivuston
 
 https://web.archive.org/web/20180110144823/https://mulufikir.org/
+
+Sivustossa käytettäviä elementtejä (Ei välttämättä käytetä)
 
 https://lordicon.com/help/32-web-lordicon-custom-element
 
