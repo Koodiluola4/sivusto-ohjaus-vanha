@@ -25,3 +25,6 @@ Sivustossa käytettäviä elementtejä (Ei välttämättä käytetä)
 https://lordicon.com/help/32-web-lordicon-custom-element
 
 Hostinger - mahdollinen palvelin? -Halpa
+
+### 1.11.2022
+
