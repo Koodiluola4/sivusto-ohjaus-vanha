@@ -58,6 +58,7 @@ Löysimme alkuperäiset sivut käyttämällä archive.org, joka myös tunnetaan 
 
 ### 2.11.2022
 - facebookin sivua suuniteltiin
--html sivua tekemistä jatketaan
+
+- html sivua tekemistä jatketaan
 
 
