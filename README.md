@@ -26,7 +26,7 @@ https://lordicon.com/help/32-web-lordicon-custom-element
 
 Hetzner 
 ------- 
-Hetznerillä on myös palvelimia suomessa, joka mahdollistaa kaikki suomen ja Euroopan internetti turvallisuus lakien nuudutuksen. 
+Hetznerillä on myös palvelimia suomessa, joka mahdollistaa kaikki suomen ja Euroopan internetti turvallisuus lakien noudutuksen. 
 
 Hetzner on yksi maailman tunnetuimista ja luotetuimmista palvelimen tarjoojista.
 
