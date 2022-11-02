@@ -54,3 +54,10 @@ Löysimme alkuperäiset sivut käyttämällä archive.org, joka myös tunnetaan 
 
 -jatkettiin rautalankamallin tekemistä
 
+-tehtiin html sivua
+
+### 2.11.2022
+- facebookin sivua suuniteltiin
+-html sivua tekemistä jatketaan
+
+
