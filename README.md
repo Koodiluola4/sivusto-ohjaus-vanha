@@ -51,5 +51,6 @@ Löysimme alkuperäiset sivut käyttämällä archive.org, joka myös tunnetaan 
 
 ### 1.11.2022
 -mietittiin logolle väriä
+
 -jatkettiin rautalankamallin tekemistä
 
