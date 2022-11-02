@@ -27,4 +27,6 @@ https://lordicon.com/help/32-web-lordicon-custom-element
 Hostinger - mahdollinen palvelin? -Halpa
 
 ### 1.11.2022
+-mietittiin logolle väriä
+-jatkettiin rautalankamallin tekemistä
 
