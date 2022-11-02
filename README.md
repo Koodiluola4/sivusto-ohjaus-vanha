@@ -24,7 +24,7 @@ Sivustossa käytettäviä elementtejä (Ei välttämättä käytetä)
 
 https://lordicon.com/help/32-web-lordicon-custom-element
 
-Hetzner 
+Hetzner Palvelin
 ------- 
 Hetznerillä on myös palvelimia suomessa, joka mahdollistaa kaikki suomen ja Euroopan internetti turvallisuus lakien noudutuksen. 
 
