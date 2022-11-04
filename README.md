@@ -61,6 +61,6 @@ Löysimme alkuperäiset sivut käyttämällä archive.org, joka myös tunnetaan 
 
 - html sivua tekemistä jatketaan
 
-
+- Jatkettiin html sivun tekemistä
 
 
