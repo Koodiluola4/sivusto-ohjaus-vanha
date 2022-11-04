@@ -36,7 +36,7 @@ Palvelimen maksua pystyy maksamaan kolmen kuukauden tai jopa vuoden erissä, jot
 
 Hetzner myös muistuttaa sähköpostilla palvelimen maksusta, jotta et unohda maksaa sitä. 
 
-Hetznerin tämän hetkinen hinta on € 4.51 / kuukausi
+Hetznerin tämän hetkinen hinta on € 3.92 / kuukausi
 
 ------- 
 
