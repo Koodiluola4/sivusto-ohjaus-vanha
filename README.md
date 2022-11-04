@@ -52,6 +52,10 @@ Löysimme alkuperäiset sivut käyttämällä archive.org, joka myös tunnetaan 
 
 Käytämme Vue.js työkalu settiä nettisivun tekemiseen koska se on nopea ja turvallinen ja se on halpa ja helppo ylläpitää
 
+## Logo
+
+![logo](img-src/logos/Vihreälogo.png)
+
 ### 1.11.2022
 -mietittiin logolle väriä
 
