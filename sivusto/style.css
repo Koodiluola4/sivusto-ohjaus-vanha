@@ -1,19 +1,18 @@
+* {
+    box-sizing:border-box;
+}
 body {
     height: 100%;
     width: 100%;
-    padding: 0;
+    padding: 0px 0px;
     margin: 0;
     display: flex;
     flex-direction: column;
     background-image: url('bgi.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: Roboto-Slab, Verdana;
     /* background-color: #028b5b; */
-}
-
-header {
-    height: 120px;
-    background-color: #02bd7c;
 }
 
 main {
@@ -31,10 +30,13 @@ table{
     margin-left: auto;
     margin-right: auto;
     color: white;
+    justify-content: right;
 }
 
 h1{
-    text-align: center;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+    margin: auto;
     color: white;
 }
 
@@ -52,28 +54,59 @@ h1{
 }
 
 a {
-    display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 0px 16px 0px 0px;
     text-decoration: none;
     opacity: 1.0;
     }
 
+.flexbox-half {
+    display: flex;
+}
+
 .container {
-    opacity: 0.9;
+    opacity: 1;
     margin: 0 auto;
     max-width: 48rem;
-    width: 90%;
-    height: auto;
-    margin-top: 25px;
-
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
     background-color: #02bd7c;
-    
-    border: 5px #028b5b solid;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    height:100px;
 }
 
 .container-grid-1 {
     background-color: #028b5b;
     height: 50vh;
 }
+
+.linkdiv {
+    display:block;
+    margin: auto auto auto auto;
+    width: 70%;
+}
+
+.headerdiv {
+    display: block;
+    height: 120px;
+    background-color: #02bd7c;
+    width: 100%;
+    border-radius: 25px;
+}
+
+@media screen and (max-width: 700px) {
+    .third {width: 100%;}
+    .half {width: 100%;}
+    /*Nää on peistattu vanhast projektista, laitetaan käyttöön myöhemmin*/
+}
+
+@font-face {
+    font-family: roboto-slab;
+    src: url(img-src/RobotoSlab-Regular.woff);
+  }
