@@ -48,6 +48,9 @@ Hetzner on kilpailu kykyinen palvelimen tarjoaja, joka pystyy tarjoamaan halvimm
 ------ 
 
 Löysimme alkuperäiset sivut käyttämällä archive.org, joka myös tunnetaan nimellä waybackmachine, tämän avulla saimme jonkinlaista taustatietoa vanhoista sivuista, kuten vanhat etusivut, mutta valitettavasti suurin osa sivustosta ei löytynyt archieve.org sivusta.
+------
+
+Käytämme Vue.js työkalu settiä nettisivun tekemiseen koska se on nopea ja turvallinen ja se on halpa ja helppo ylläpitää
 
 ### 1.11.2022
 -mietittiin logolle väriä
