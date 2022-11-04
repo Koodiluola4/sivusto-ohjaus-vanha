@@ -57,16 +57,16 @@ Käytämme Vue.js työkalu settiä nettisivun tekemiseen koska se on nopea ja tu
 ![logo](img-src/logos/Vihreälogo.png)
 
 ### 1.11.2022
--mietittiin logolle väriä
+- Mietittiin logolle väriä
 
--jatkettiin rautalankamallin tekemistä
+- Jatkettiin rautalankamallin tekemistä
 
--tehtiin html sivua
+- Tehtiin html sivua
 
 ### 2.11.2022
-- facebookin sivua suuniteltiin
+- Facebookin sivua suuniteltiin
 
-- html sivua tekemistä jatketaan
+- Html sivua tekemistä jatketaan
 
 - Jatkettiin html sivun tekemistä
 
