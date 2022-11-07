@@ -1,3 +1,7 @@
+/*
+I am gonna become joker
+I hate this
+*/
 * {
     box-sizing:border-box;
 }
@@ -20,17 +24,17 @@ main {
     /* background-color: #028b5b; */
 }
 
-footer {
-    height: 90px;
-    background-color: #02bd7c;
-}
-
 table{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     color: white;
     justify-content: right;
+}
+
+p {
+    font-family: Verdana;
+    color: #4e4e4e;
 }
 
 h1{
@@ -74,6 +78,7 @@ a {
     height: 100%;
     margin-top: 0px;
     background-color: #02bd7c;
+    min-height: 100vw;
 }
 
 .header {
@@ -81,12 +86,10 @@ a {
 }
 
 .footer {
-    background-color: #153819;
-    display: flex;
+    background-color: #01613F;
 }
 
 .logo {
-    display: block;
     margin-left: auto;
     height:100px;
 }
@@ -94,11 +97,16 @@ a {
 .container-grid-1 {
     background-color: #028b5b;
     height: 50vh;
+    padding: 40px;
+}
+
+.post {
+    background-color: #ffffff;
 }
 
 .linkdiv {
     margin: auto auto auto auto;
-    width: 70%;
+    width: 80%;
 }
 
 @media screen and (max-width: 700px) {
