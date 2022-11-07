@@ -63,6 +63,7 @@ a {
 
 .flexbox-half {
     display: flex;
+    padding: 10px;
 }
 
 .container {
@@ -73,6 +74,15 @@ a {
     height: 100%;
     margin-top: 0px;
     background-color: #02bd7c;
+}
+
+.header {
+    background-color: #02bd7c;
+}
+
+.footer {
+    background-color: #153819;
+    display: flex;
 }
 
 .logo {
@@ -87,17 +97,8 @@ a {
 }
 
 .linkdiv {
-    display:block;
     margin: auto auto auto auto;
     width: 70%;
-}
-
-.headerdiv {
-    display: block;
-    height: 120px;
-    background-color: #02bd7c;
-    width: 100%;
-    border-radius: 25px;
 }
 
 @media screen and (max-width: 700px) {
