@@ -2,15 +2,13 @@
 
 ### Värit (Muutettavissa) (11:01 21/10)
 
-`#028b5b` - Tausta
-
-`#01613F` - Etutausta 
+`#028b5b` - Tausta 
 
 `#ffffff` - Teksti
 
-`#49BF95` - Header
+`#02bd7c` - Header
 
-`#49BF95` - Footer
+`#01613F` - Footer
 
 Font - Roboto Slab?
 
