@@ -88,6 +88,10 @@ a {
 .footer {
     background-color: #01613F;
     display: flex;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 .logo {
@@ -103,6 +107,7 @@ a {
 
 .post {
     background-color: #ffffff;
+    position: absolute;
 }
 
 .linkdiv {
