@@ -8,7 +8,7 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-    background-image: url('bgi.jpg');
+    background-image: url('img-src/bgi.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Roboto-Slab, Verdana;
@@ -65,10 +65,11 @@ a {
     opacity: 1;
     margin: 0 auto;
     max-width: 48vw;
-    width: 100%;
-    height: 100%;
     margin-top: 0px;
     background-color: #02bd7c;
+    border-style: none ridge;
+    border-width: 5px;
+    border-color: #028b5b;
 }
 
 .header {
