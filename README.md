@@ -2,11 +2,11 @@
 
 ### Värit (Muutettavissa) (11:01 21/10)
 
-`#028b5b` - Tausta 
-
 `#000000` - Tekstin tusta
 
 `#ffffff` - Teksti
+
+`#028b5b` - Sisältö tausta
 
 `#02bd7c` - Header
 
