@@ -4,6 +4,8 @@
 
 `#028b5b` - Tausta 
 
+`#000000` - Tekstin tusta
+
 `#ffffff` - Teksti
 
 `#02bd7c` - Header
