@@ -8,7 +8,7 @@
 
 - ![#FE6099](https://placehold.co/15x15/FE6099/FE6099.png) `#FE6099` - Header Tausta
 
-- ![#19C89C](ttps://placehold.co/15x15/19C89C/19C89C.png) `#19C89C` - Sisältö Laatikko
+- ![#19C89C](https://placehold.co/15x15/19C89C/19C89C.png) `#19C89C` - Sisältö Laatikko
 
 - ![#1A9778](https://placehold.co/15x15/1A9778/1A9778.png) `#1A9778` - Footer Tausta
 
