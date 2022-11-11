@@ -64,7 +64,7 @@ Käytämme Vue.js työkalu settiä nettisivun tekemiseen koska se on nopea ja tu
 
 ![/sivusto/img-src/logos/](/sivusto/img-src/logos/)
 
-------- 
+-------
 
 ### 1.11.2022
 - Mietittiin logolle väriä
