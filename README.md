@@ -2,17 +2,23 @@
 
 ### Värit (Muutettavissa) (11:01 21/10)
 
-`#000000` - Tekstin tusta
+- ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`
 
-`#ffffff` - Teksti
+- ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff`
 
-`#028b5b` - Sisältö tausta
+- ![#028b5b](https://placehold.co/15x15/028b5b/028b5b.png) `#028b5b`
 
-`#02bd7c` - Header
+- ![#02bd7c](https://placehold.co/15x15/02bd7c/02bd7c.png) `#02bd7c`
 
-`#01613F` - Footer
+- ![#01613F](https://placehold.co/15x15/01613F/01613F.png) `#01613F`
 
-Font - Roboto Slab?
+Font - Khand
+
+Otsikko header, footer navigointi - Khand medium
+
+Navigointi menu, leipäteksti otsikot - Khand regular
+
+Leipäteksti -  Verdana
 
 ### Käytettyjä lähteitä
 
