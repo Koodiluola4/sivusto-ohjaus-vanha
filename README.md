@@ -72,5 +72,14 @@ Käytämme Vue.js työkalu settiä nettisivun tekemiseen koska se on nopea ja tu
 
 - Jatkettiin html sivun tekemistä
 
+### 11.11.2022
+#### Vastaus asiakkaalle aiheista nettiosoite ja vanhat sivut:
+
+Hei! 
+
+Löydettiin ne vanhat etusivut ja kysymyksesi oli, että saadaanko kuvat ja nettiosoitetta takaisin tulevalle uudelle sivulle. Kuvia valitettavasti emme saa    takaisin käyttölaatuisina eli emme voi hyödyntää niitä tässä projektissa. 
+Vanhan netti osoitteen mulufikir.org saa käyttöön, mutta sen hinta tulee olemaan noin 14€ vuodessa.
+Jos tulee lisää kysyttävää niin vastaamme mielellämme.
+Ystävällisin terveisin, Team4.
 
 
