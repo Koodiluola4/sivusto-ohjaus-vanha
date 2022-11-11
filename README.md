@@ -2,15 +2,15 @@
 
 ### Värit (Muutettavissa) (11:01 21/10)
 
-- ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`
+- ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000` - Leipäteksti
 
-- ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff`
+- ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff` - Header ja footer tekstit & leipäteksti tausta
 
-- ![#028b5b](https://placehold.co/15x15/028b5b/028b5b.png) `#028b5b`
+- ![#FE6099](https://placehold.co/15x15/FE6099/FE6099.png) `#FE6099` - Header Tausta
 
-- ![#02bd7c](https://placehold.co/15x15/02bd7c/02bd7c.png) `#02bd7c`
+- ![#19C89C](ttps://placehold.co/15x15/19C89C/19C89C.png) `#19C89C` - Sisältö Laatikko
 
-- ![#01613F](https://placehold.co/15x15/01613F/01613F.png) `#01613F`
+- ![#1A9778](https://placehold.co/15x15/1A9778/1A9778.png) `#1A9778` - Footer Tausta
 
 Font - Khand
 
