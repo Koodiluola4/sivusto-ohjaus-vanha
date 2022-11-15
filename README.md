@@ -90,4 +90,7 @@ Vanhan netti osoitteen mulufikir.org saa käyttöön, mutta sen hinta tulee olem
 Jos tulee lisää kysyttävää niin vastaamme mielellämme.
 Ystävällisin terveisin, Team4.
 
-
+### 14.11.2022
+ - Saatiin HTML/CSS Wordpressiin.
+ - Muokatttiin sivustoa paremman näköiseksi. 
+ - Alettiin tekemään sivustolle kieliasetusta.
