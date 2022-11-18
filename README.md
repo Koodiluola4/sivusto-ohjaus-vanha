@@ -1,6 +1,6 @@
 # sivusto-ohjaus
 
-### Värit (Muutettavissa) (11:01 21/10)
+### Värit
 
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000` - Leipäteksti
 
