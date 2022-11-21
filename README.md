@@ -68,6 +68,7 @@ Käytämme Vue.js työkalu settiä nettisivun tekemiseen koska se on nopea ja tu
 <div>
  <img src="/sivusto/img-src/misc/Flyer.png" width="200">
  <img src="/sivusto/img-src/misc/Flyer-White-Text.png" width="200">
+ <img src="/sivusto/img-src/misc/Desctop - 1.png" width="200">
 </div>
 
 ### 1.11.2022
